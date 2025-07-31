@@ -18,5 +18,6 @@ public class Eularsphi{
             }
             return GCD(b%a,a);
         }
-    }
+        sc.close();
+}
     
