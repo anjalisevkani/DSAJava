@@ -62,6 +62,11 @@ public class Arrays{
     System.out.println(java.util.Arrays.toString(str));
     }
 
+    public static char[] toString(int[] search) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'toString'");
+    }
+
    
     
     
