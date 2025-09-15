@@ -67,6 +67,11 @@ public class Arrays{
         throw new UnsupportedOperationException("Unimplemented method 'toString'");
     }
 
+    public static Object asList(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'asList'");
+    }
+
    
     
     

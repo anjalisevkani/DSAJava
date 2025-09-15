@@ -12,12 +12,12 @@ public class Eularsphi{
         }
         System.out.println("Euler's totient function (" + num +") = " + count);
     }
-        static int GCD(int a,int b){
-            if(a==0){
-                return b;
-            }
-            return GCD(b%a,a);
+    static int GCD(int a,int b){
+        if(a==0){
+            return b;
         }
-        sc.close();
+        return GCD(b%a,a);
+        }
+    
 }
     
