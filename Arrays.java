@@ -1,4 +1,3 @@
-import java.util.*;
 import java.util.Scanner;
 public class Arrays{
     public static void main(String[] args) {
@@ -70,6 +69,10 @@ public class Arrays{
     public static Object asList(String string) {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'asList'");
+    }
+
+    static void fill(char[] row, char c) {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
    
